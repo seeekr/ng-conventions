@@ -40,7 +40,7 @@ angular.module('myModule').directive('myDirective', function () {
     return {
         compile() {
         },
-        templateUrl: 'componentA/myDirective.html'
+        templateUrl: 'componentA/my-directive.html'
     };
 });
 ```

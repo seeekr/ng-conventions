@@ -17,7 +17,8 @@
   "dependencies": {
     "escodegen": "^1.8.0",
     "esprima": "^2.7.2",
-    "estraverse": "^4.2.0"
+    "estraverse": "^4.2.0",
+    "lodash.kebabcase": "^4.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
