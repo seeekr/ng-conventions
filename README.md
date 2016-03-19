@@ -1,6 +1,6 @@
 Parses input source code and modifies it, allowing you to use conventions that are accepted by the community, but go beyond what AngularJS itself brings with it.
 
-Perfect for use with build tools such as Grunt or Gulp.
+Perfect for use with build tools such as Grunt or Gulp ([gulp-ng-conventions](https://github.com/seeekr/gulp-ng-conventions)).
 
 The goal is to DRY up your code by making full use of conventions.
 
