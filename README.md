@@ -48,4 +48,4 @@ angular.module('myModule').directive('myDirective', function () {
 # Features
 
 ## Default templateUrl
-If directive JS and HTML are in the same directory and the directive's template HTML is in a file named `'${directiveName}.html'`, `templateUrl` will be automatically set to that for you.
+If directive JS and HTML are in the same directory and the directive's template HTML is in a file named `${directiveName}.html`, `templateUrl` will be automatically set to that for you.
